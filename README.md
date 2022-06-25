@@ -1,7 +1,23 @@
-## BookShelf-2021
-Tugas submission Dicoding Front-End Pemula, belajar menerapkan DOM dan LocalStorage pada HTML.
+## About Project
 
-[Demo Video](https://drive.google.com/file/d/1Og2BHOlW5_zmKctnPTqKGpFygviHhmRT/view?usp=sharing)
+![Screenshot](screenshot.webp)
 
-## Screenshot
-![Screenshot](https://cdn.statically.io/gh/Herdianurdin/BookShelf-2021/main/bookshelf.png)
+This application is a Beginner's Dicoding Front-End final project. Which this final project must implement DOM and LocalStorage in HTML.
+
+### JSON Structure
+
+```JSON
+[
+  {
+    "id": "",
+    "title": "",
+    "author": "",
+    "year": 2000,
+    "isComplete": false,
+  }
+]
+```
+
+## License
+
+Distributed under the GPL License. See [LICENSE](LICENSE) for more information.
